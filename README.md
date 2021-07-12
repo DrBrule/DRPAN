@@ -8,6 +8,10 @@ The directory `Pix2pixHD_DRPAN` is our extended work of combining pix2pixHD with
 
 The directory `CycleGAN_DRPAN` is our extended work of improving CycleGAN by DRPAN (CycleGAN+DRPAN).
 
+## Fork Details
+
+Attempting to update this for python 3.7
+
 ## Citation
 ```
 @article{wang2019drpan,
